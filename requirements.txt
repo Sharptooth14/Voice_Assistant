@@ -1,0 +1,8 @@
+pyaudio
+faster_whisper
+numpy
+huggingface_hub
+sounddevice
+transformers
+pydub
+edge_tts
